@@ -13,7 +13,7 @@ from other leaders who inspire me.
 __Motivations matter.__ I believe teams are healthiest when team members are
 primarily motivated by factors beyond their own personal gain. I reward and
 praise work done in service of our customers or our mission. I do not reward or
-praise work done for self-recognition or self-promotion.
+praise work done for self-promotion or other self-interest.
 
 __People are the plan.__ I believe that happy people are a prerequisite to
 delivering great work, and that people are happiest when they are understood. I
@@ -61,7 +61,7 @@ aware and use the right means for the message: email is permanent, in-person and
 video conversations are ephemeral, and Slack is somewhere in between. I ask that
 you also be thoughtful with your communications.
 
-__On the clock.__ My philosophy on in-office time is guided by the principles
+__On the clock.__ My philosophy on working hours is guided by the principles
 outlined above (happy people beget great work). I encourage you to optimize your
 work time, balancing the needs associated with your role, your customers, the
 team, and your happiness. Work with me as this balance evolves.
