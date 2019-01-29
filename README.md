@@ -4,7 +4,9 @@ Hello and welcome to the team! In addition to the responsibilities associated
 with your role, you are now also an operator of a new-to-you EAP. This document
 is intended to ensure you are able to get the most from our working relationship.
 It attempts to capture my management philosophy, day-to-day work expectations,
-and other quirks with which you may wish to familiarize yourself.
+and other quirks with which you may wish to familiarize yourself. It is not a
+replacement for the actual working relationship we will develop over time, but
+is a useful document to check assumptions and hold me accountable.
 
 It is in the spirit of [similar documents](http://randsinrepose.com/archives/how-to-rands/)
 from other leaders who inspire me.
